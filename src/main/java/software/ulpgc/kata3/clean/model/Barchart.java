@@ -29,3 +29,4 @@ public class Barchart {
         return values.getOrDefault(key, 0);
     }
 }
+
