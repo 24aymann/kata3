@@ -1,4 +1,9 @@
-package software.ulpgc.kata3;
+package software.ulpgc.kata3.clean.control;
+
+import software.ulpgc.kata3.clean.model.Barchart;
+import software.ulpgc.kata3.clean.model.Title;
+import software.ulpgc.kata3.clean.model.TitleLoader;
+import software.ulpgc.kata3.clean.view.BarchartDisplay;
 
 import java.io.IOException;
 import java.util.HashMap;

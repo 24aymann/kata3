@@ -1,9 +1,8 @@
-package software.ulpgc.kata3;
+package software.ulpgc.kata3.dirty;
 
-import software.ulpgc.kata3.FileTitleLoader;
-import software.ulpgc.kata3.MainFrame;
-import software.ulpgc.kata3.ToggleChartCommand;
-import software.ulpgc.kata3.TsvTitleDeserializer;
+import software.ulpgc.kata3.clean.model.FileTitleLoader;
+import software.ulpgc.kata3.clean.control.ToggleChartCommand;
+import software.ulpgc.kata3.clean.model.TsvTitleDeserializer;
 
 import java.io.File;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package software.ulpgc.kata3;
+package software.ulpgc.kata3.clean.model;
 
 import java.io.IOException;
 import java.util.List;
